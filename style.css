@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background: linear-gradient(90deg, rgba(255, 0, 0, 1) 7%, rgba(12, 0, 255, 0.9976365546218487) 52%, rgba(0, 255, 124, 1) 87%);
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+img {
+    height: 150px;
+}
